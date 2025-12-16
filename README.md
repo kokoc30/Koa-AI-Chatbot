@@ -23,6 +23,17 @@ Designed and implemented Koa, a machine-learning chat assistant featuring a Fast
 <img src="assets/Koa_Demo.png" alt="Koa UI" width="600" />
 
 
+## Colab Demo
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/kokoc30/Koa-Chatbot/blob/main/notebooks/koa_colab_demo.ipynb
+)
+
+## Prerequisites
+- Python 3.10+ (recommended: 3.11)
+- (Optional) NVIDIA GPU + CUDA for faster inference
+
+
 ## Quick Start (Local)
 ### 1) Backend (FastAPI)
 ```bash
