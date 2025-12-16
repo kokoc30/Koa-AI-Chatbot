@@ -20,11 +20,11 @@ Designed and implemented Koa, a machine-learning chat assistant featuring a Fast
 
 ## UI Screenshot
 
-<img src="Koa_Demo.png" alt="Koa UI" width="600" />
+<img src="assets/koa_demo.png" alt="Koa UI" width="600" />
 
 
 ## Quick Start (Local)
 ### 1) Backend (FastAPI)
 ```bash
 pip install -r requirements.txt
-python inference/api_server.py
+python -m uvicorn inference.api_server:app --host 127.0.0.1 --port 9010 --reload
