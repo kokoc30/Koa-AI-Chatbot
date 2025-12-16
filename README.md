@@ -20,7 +20,7 @@ Designed and implemented Koa, a machine-learning chat assistant featuring a Fast
 
 ## UI Screenshot
 
-<img src="assets/koa_demo.png" alt="Koa UI" width="600" />
+<img src="assets/Koa_Demo.png" alt="Koa UI" width="600" />
 
 
 ## Quick Start (Local)
