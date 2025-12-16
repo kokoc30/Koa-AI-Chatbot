@@ -16,9 +16,12 @@ Designed and implemented Koa, a machine-learning chat assistant featuring a Fast
 
 ## Demo
 
+- [Watch the demo video](https://youtu.be/QX3a01UH3ik)
 
-YouTube Link:
-  - `[Watch the demo video]([PASTE_LINK_HERE](https://youtu.be/QX3a01UH3ik))`
+## UI Screenshot
+
+![Koa UI](assets/ui.png)
+
 
 ## Quick Start (Local)
 ### 1) Backend (FastAPI)
